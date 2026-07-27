@@ -2,7 +2,7 @@ import { defineAstroPaperConfig } from "./src/types/config";
 
 export default defineAstroPaperConfig({
   site: {
-    url: "https://chkia0519.github.io/blog",
+    url: "https://chkia0519.github.io",
     title: "Chkia的學習部落格",
     description: "記錄 Python、Terraform、Linux 與各種資工學習歷程",
     author: "Chkia",
