@@ -1,37 +1,30 @@
 ---
-title: "About"
+title: "About Me"
 description: "A bit about me and this blog."
 ---
 
-AstroPaper is a minimal, accessible and SEO-friendly blog theme built with [Astro](https://astro.build/) and [Tailwind CSS](https://tailwindcss.com/).
+> 人生就像Flask，有無限的擴充性
 
-![Astro Paper](@/assets/images/astropaper-og.jpg)
 
-AstroPaper provides a solid foundation for blogs, or even portfolios\_ with full markdown support, built-in dark mode, and a clean layout that works out-of-the-box.
+您好，我是張欣容，畢業於國立水里商工餐飲管理科，目前就讀國立空中大學資訊管理學系。
 
-The blog posts in this theme also serve as guides, docs or example articles\_ making AstroPaper a flexible starting point for your next content-driven site.
+對程式設計與資訊技術抱持高度熱忱，十分熱愛學習新知識。
 
-## Features
+透過自主學習與實作累積 Python 開發經驗，曾接觸網路爬蟲、Flask 網頁開發及 TensorFlow 機器學習應用。
 
-AstroPaper comes with a set of useful features that make content publishing easy and effective:
+目前持續學習 Java 及更多的知識，期望朝軟體開發與資訊工程領域發展。
 
-- SEO-friendly
-- Fast performance
-- Light & dark mode
-- Highly customizable
-- Organizable blog posts
-- Responsive & accessible
-- Static search with [PageFind](https://pagefind.app/)
-- Automatic social image generation
+---
 
-and so much more.
+## Skills
 
-## Show your support
+- Python
+- Flask
+- Beautiful Soup (BS4)
+- Requests
+- TensorFlow
+- Java（學習中）
 
-If you like [AstroPaper](https://github.com/satnaing/astro-paper), consider giving it a star ⭐️.
+---
 
-Found a bug 🐛 or have an improvement ✨ in mind? Feel free to open an [issue](https://github.com/satnaing/astro-paper/issues), submit a [pull request](https://github.com/satnaing/astro-paper/pulls) or start a [discussion](https://github.com/satnaing/astro-paper/discussions).
 
-If you find this theme helpful, you can also [sponsor me on GitHub](https://github.com/sponsors/satnaing) or [buy me a coffee](https://buymeacoffee.com/satnaing) to show your support — every penny counts.
-
-Kyay zuu! 🙏🏼
