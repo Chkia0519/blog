@@ -10,20 +10,17 @@ featured: true
 ---
 
 
-<div style="text-align: center;">
 
-  <a href="/blog/posts/20260730_usage_git/"> 本篇為第一篇：安裝 Git</a>
-  &nbsp;&nbsp;|&nbsp;&nbsp;
-  <a href="/blog/posts/20260731_usage_git2/">下一篇：配置 Git </a>
-
-</div>
-
----
-
-<div style="text-align: center;">
-<a href="/blog/posts/20260730_usage_gitall/"> Git 學習筆記系列總覽 </a>
-</div>
+第一篇：[安裝 Git](/blog/posts/20260730_usage_git/)
 
 
+第二篇：[設置 Git](/blog/posts/20260731_usage_git2/)
 
 
+第三篇：[創建倉庫](/blog/posts/20260801_usage_git3/)
+
+
+第四篇：[新增第一次版本紀錄](/blog/posts/20260802_usage_git4/)
+
+
+第五篇：[]()
