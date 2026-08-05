@@ -26,6 +26,10 @@ featured: true
 第五篇：[現在狀態](/blog/posts/20260803_usage_git5/)
 
 
-第六篇：[過去狀態](/blog/posts/20260804_usage_git6/)
+第六篇：[過去狀態-1](/blog/posts/20260804_usage_git6/)
+
+`log`、`--oneline`、`--oneline --graph --all`、`-p`、`--stat`
+
+第七篇：[過去狀態-2](/blog/posts/20260805_usage_git7/)
 
 第篇：[]()
