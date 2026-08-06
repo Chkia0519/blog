@@ -32,4 +32,7 @@ featured: true
 
 第七篇：[過去狀態-2](/blog/posts/20260805_usage_git7/)
 
+
+第八篇：[過去狀態-3](/blog/posts/20260806_usage_git8/)
+
 第篇：[]()
