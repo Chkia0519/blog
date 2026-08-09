@@ -36,7 +36,7 @@ featured: true
 第八篇：[過去狀態-3](/blog/posts/20260806_usage_git8/)
 
 
-第九篇：[git log 指令統整](/blog/posts/20260807_usage_git9/)
+第九篇：[git log 指令統整](/blog/posts/20260809_usage_git9/)
 
 
 第篇：[]()
