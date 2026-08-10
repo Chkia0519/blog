@@ -39,4 +39,6 @@ featured: true
 第九篇：[git log 指令統整](/blog/posts/20260809_usage_git9/)
 
 
+第十篇：[查看指定 Commit](/blog/posts/20260810_usage_git10/)
+
 第篇：[]()
