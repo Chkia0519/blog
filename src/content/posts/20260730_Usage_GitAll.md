@@ -46,7 +46,7 @@ featured: true
 第 12 篇：[移動到指定的 Commit](/blog/posts/20260814_usage_git12/) - `git reset`
 
 
-第 13 篇：[]()
+第 13 篇：[比較兩者狀態之間差異](/blog/posts/20260814_usage_git13/) - `git diff`
 
 
 第  篇：[]()
