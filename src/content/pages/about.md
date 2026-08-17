@@ -20,10 +20,13 @@ description: "A bit about me and this blog."
 
 - Python
 - Flask
+- Excel VBA
 - Beautiful Soup (BS4)
 - Requests
 - TensorFlow
+- Excel VBA
 - Java（學習中）
+- Git（學習中）
 
 ---
 
