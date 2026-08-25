@@ -53,5 +53,7 @@ featured: true
 第 14 篇：[復原修改與取消暫存](/blog/posts/git_note/20260821_usage_git14/) - `git restore`
 
 
+第 15 篇：[建立反向操作](/blog/posts/git_note/20260825_usage_git15/) - `git revert`
+
 
 第  篇：[]()

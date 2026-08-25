@@ -5,7 +5,7 @@ pubDatetime: 2026-07-24
 tags:
   - Learning
   - Python
-featured: true
+featured: false
 ---
 
 # 我的資工學習之路
