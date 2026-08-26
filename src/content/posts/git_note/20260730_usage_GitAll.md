@@ -56,6 +56,6 @@ featured: true
 第 15 篇：[建立反向操作](/blog/posts/git_note/20260825_usage_git15/) - `git revert`
 
 
-第 16 篇：[暫存目前工作](/blog/posts/git_note/20260826_usage_git16/)) - `git stash`
+第 16 篇：[暫存目前工作](/blog/posts/git_note/20260826_usage_git16/) - `git stash`
 
 第  篇：[]()
