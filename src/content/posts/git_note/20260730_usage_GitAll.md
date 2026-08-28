@@ -58,4 +58,13 @@ featured: true
 
 第 16 篇：[暫存目前工作](/blog/posts/git_note/20260826_usage_git16/) - `git stash`
 
+
+第 17 篇：[查看HEAD操作紀錄](/blog/posts/git_note/20260828_usage_git17/) - `git reflog`
+
+
+第 18 篇：[複製倉庫](/blog/posts/git_note/20260829_usage_git18/) - `git clone`
+
+
+
+
 第  篇：[]()
