@@ -21,7 +21,8 @@ import config from "./astro-paper.config";
 
 export default defineConfig({
   
-  site: "https://你的名字.dev",
+  site: "https://learning-blog.chkia.dev",
+  base: "/blog",
 
   integrations: [
     mdx(),
