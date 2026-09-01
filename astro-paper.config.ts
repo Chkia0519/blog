@@ -24,7 +24,7 @@ export default defineAstroPaperConfig({
     showBackButton: true,
     editPost: {
       enabled: false,
-      `url: "https://github.com/Chkia0519/blog/edit/main/", 想暫時關掉編輯`
+      // url: "https://github.com/Chkia0519/blog/edit/main/", 想暫時關掉編輯
     },
     search: "pagefind",
   },
