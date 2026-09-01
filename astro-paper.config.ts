@@ -23,7 +23,7 @@ export default defineAstroPaperConfig({
     showArchives: true,
     showBackButton: true,
     editPost: {
-      enabled: true,
+      enabled: false,
       url: "https://github.com/Chkia0519/blog/edit/main/",
     },
     search: "pagefind",
