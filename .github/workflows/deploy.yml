@@ -40,6 +40,22 @@ jobs:
           mkdir -p site/blog
           cp -r dist/. site/blog/
 
+      - name: Create root redirect
+        run: |
+          cat > site/index.html <<'EOF'
+          <!doctype html>
+          <html lang="zh-TW">
+          <head>
+            <meta charset="UTF-8">
+            <meta http-equiv="refresh" content="0; url=/blog/">
+            <title>Chkia 的學習部落格</title>
+          </head>
+          <body>
+            <p>正在前往 <a href="/blog/">Chkia 的學習部落格</a>...</p>
+          </body>
+          </html>
+          EOF
+
       - name: Upload GitHub Pages artifact
         uses: actions/upload-pages-artifact@v4
         with:
