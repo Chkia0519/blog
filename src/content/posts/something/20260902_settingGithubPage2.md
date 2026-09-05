@@ -162,6 +162,11 @@ jobs:
 
 ---
 
+### pnpm exec astro build
+
+
+---
+
 ### 調整Settings
 
 進到專案 -> Settings -> Page
