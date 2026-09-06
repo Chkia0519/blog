@@ -162,12 +162,35 @@ jobs:
 
 ---
 
-### pnpm exec astro build
+### 第三步
+
+因為有更動 dist，所以要再重新 Build 一次
+
+不然舊的 dist/ 不會自己跟著更新
+
+且這個動作也可以在正式部屬至 GitHub 時先做本機驗證是否可建置
+
+確認本機可建置後再 Push 上去 GitHub
+
+執行`pnpm exec astro build`，就會產生新的 dist
+
+<img src="/blog/images/build_error.png">
+
+我這次有遇到問題，是因為我的 Astro 版本需要升級
+
+執行`pnpm add astro@7.1.2`進行升級後再 build 就沒問題了
+
 
 
 ---
 
-### 調整Settings
+### 第四步
+
+Push 上去 GitHub，然後調整 Settings
+
+先把更改完的資料 Push 上去 GitHub，檢查 Actions 有無異常
+
+如果都 OK 就可以：
 
 進到專案 -> Settings -> Page
 
