@@ -1,6 +1,6 @@
 --- 
-title: Git 學習筆記 - 更新本機資料
-description: 如何使用 git pull
+title: Git 學習筆記 - 遠端儲存庫
+description: 如何使用 git remote
 pubDatetime: 2026-09-06
 tags:
   - Learning
@@ -9,6 +9,24 @@ tags:
 featured: False
 ---
 
+remote 是什麼？
+
+Git Repo 分成兩種：
+
+1. 本機 Repo
+2. 遠端 Repo
+
+Git 需要記得目前的本機 Repo 是對哪個遠端 Repo
+
+那 remote 就是把遠端 Repo存下來的方式
+
+origin -> 代表某個遠端 Git Repo 的網址
+
+因為每次都打網址會很長，所以幫他取一個遠端倉庫的簡稱
+
+
+
+---
 
 
 ---

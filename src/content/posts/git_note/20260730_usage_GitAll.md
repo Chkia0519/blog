@@ -65,7 +65,10 @@ featured: true
 第 18 篇：[複製倉庫](/blog/posts/git_note/20260829_usage_git18/) - `git clone`
 
 
-第 19 篇：[更新本機資料](/blog/posts/git_note/20260906_usage_git19/) - `git pull`
+第 19 篇：[遠端儲存庫](/blog/posts/git_note/20260906_usage_git19/) - `git remote`
+
+
+第 20 篇：[更新本機資料](/blog/posts/git_note/20260907_usage_git20S/) - `git pull`
 
 
 
