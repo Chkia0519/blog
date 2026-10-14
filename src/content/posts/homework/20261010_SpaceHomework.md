@@ -1,6 +1,6 @@
 ---
-title: 115 上 「 Microsoft 365 應用實務 」 第 1 次作業題目
-description: Microsoft 365 應用實務
+title: 115 上 「 探索宇宙之美 」 第 1 次作業題目
+description: 探索宇宙之美
 pubDatetime: 2026-10-10
 tags:
   - Learning
