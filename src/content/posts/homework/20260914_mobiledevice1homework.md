@@ -15,7 +15,7 @@ featured: false
 
 ### 115 上 「 行動網頁製作與應用 」 第 1 次作業題目
 
-### 班別：ZZZ002班 學生姓名：張欣容 學號：115xxxxxx
+### 班別：ZZZ002班 學生姓名：張欣容 學號：115xxx969
 
 </div>
 
@@ -63,7 +63,7 @@ let person = {
 
 `person.hello();`
 
-其中 person 是物件，name 和 age 是屬性，hello() 是方法。
+其中 person 是物件，name 和 age 是屬性，hello() 是方法
 
 ---
 
@@ -75,7 +75,7 @@ let person = {
 
 - jQuery：簡化 JavaScript 操作
 
-- jQuery Mobile：提供適合手機操作的按鈕、表單、選單及頁面切換效果。
+- jQuery Mobile：提供適合手機操作的按鈕、表單、選單及頁面切換效果
 
 **jQuery Mobile 特性：**
 
