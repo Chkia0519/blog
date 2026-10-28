@@ -47,7 +47,7 @@ JavaScript 中的物件表示式是使用大括號 {} 建立物件的方式，�
 
 例如：
 
-```
+```Javascript
 
 let person = {
   name: "小明",
