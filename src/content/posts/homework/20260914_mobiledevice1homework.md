@@ -33,16 +33,64 @@ featured: false
 
 `<a>`：超連結，完整寫法 -> `<a href="網址">要顯示的文字</a>`
 
+---
 
 #### 2. 請簡述介紹 Javascript 中的物件表示式、方法與屬性，並舉例說明 。 (40%)
 
+JavaScript 中的物件表示式是使用大括號 {} 建立物件的方式，物件裡面可以包含屬性與方法
 
+- 物件：是什麼東西
 
+- 屬性：有什麼資料
 
+- 方法：可以做什麼
+
+例如：
+
+```
+
+let person = {
+  name: "小明",
+  age: 18,
+  hello: function() {
+    alert("你好");
+  }
+};
+
+```
+
+`console.log(person.name);`
+
+`person.hello();`
+
+其中 person 是物件，name 和 age 是屬性，hello() 是方法。
+
+---
 
 #### 3. 什麼是 jQuery Mobile？它具有哪些特性 ？(30%)
 
+**jQuery Mobile 是一套專門用來開發手機版網頁的前端 UI 框架**
 
+他可以讓開發者使用 HTML、CSS 和 JavaScript 快速建立適合手機、平板等行動裝置操作的網站
 
+- jQuery：簡化 JavaScript 操作
+
+- jQuery Mobile：提供適合手機操作的按鈕、表單、選單及頁面切換效果。
+
+**jQuery Mobile 特性：**
+
+1. 支援跨平台，像是安卓或是蘋果瀏覽器
+
+2. 響應式，能配合不同裝置的螢幕尺寸調整網頁排版
+
+3. 支援觸控的操作，方便使用者操作
+
+4. 容易學也容易開發
+
+5. 提供豐富的 UI 元件
+
+6. 支援 HTML5 ，可以減少很多複雜的code
+
+---
 
 [給開發者的WEB技術文件-HTML](https://developer.mozilla.org/zh-TW/docs/Web/HTML)
